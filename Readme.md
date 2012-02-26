@@ -1,0 +1,1 @@
+solve of n queens.
